@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MChatApp</string>
+    <string name="title">(Android MSS WebSocket Chat App)</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">CONNECT</string>
+    <string name="btn_send">Send</string>
+
+</resources>
